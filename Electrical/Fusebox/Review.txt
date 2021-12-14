@@ -1,0 +1,10 @@
+Review 2021-12-14 Fusebox:
+
+Allgemein:
+- R19 hat keinen Wert
+- R bei Widerstandwerten ist unangebracht. Einheiten müssen eigentlich nicht an die Werte aber wenn bitte konsistent ÜBERALL oder eben nirgens. Bitte nochmal checken.
+- LVMS_K1_in und 24V_Fused -> mehrere Sachen
+-- 24V direkt in den Microcontroller? But why?
+-- Was genau macht der Pulldown?
+-- Der Strom der in den Prot fließen kann sollte begrenzt sein. Widerstand in Reihe z.B.
+- Warum mus die Messung gefused sein? Wenn du den Strom Begrenzt wäre es besser vor der Fuse die Spannung zu messen. Ansosnten kann man sich die digitale messung (in diesem Fall "FRO_24") auch sparen.
