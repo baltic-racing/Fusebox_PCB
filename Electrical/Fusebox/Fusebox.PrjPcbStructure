@@ -1,1 +1,4 @@
-Record=TopLevelDocument|FileName=Connector.SchDoc
+Record=TopLevelDocument|FileName=Connector.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Connector.SchDoc|FileName=Controller.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Connector.SchDoc|FileName=Shutdown_Converter.SchDoc|SheetNumber=01
+Record=NoMainPathDocument|SourceDocument=Connector.SchDoc|FileName=Supply_Fusing.SchDoc|SheetNumber= 
