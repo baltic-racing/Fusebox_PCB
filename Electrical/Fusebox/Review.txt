@@ -8,3 +8,8 @@ Allgemein:
 -- Was genau macht der Pulldown?
 -- Der Strom der in den Prot fließen kann sollte begrenzt sein. Widerstand in Reihe z.B.
 - Warum mus die Messung gefused sein? Wenn du den Strom Begrenzt wäre es besser vor der Fuse die Spannung zu messen. Ansosnten kann man sich die digitale messung (in diesem Fall "FRO_24") auch sparen.
+
+Review 2022-02-02 Fusebox:
+
+Allgemein:
+- Fuse-Werte fehlen
