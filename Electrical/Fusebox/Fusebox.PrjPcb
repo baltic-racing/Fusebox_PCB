@@ -194,46 +194,34 @@ DocumentPath=.\gerbers\JLC_GERBERS\Fusebox_PCB.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=.\gerbers\JLC_GERBERS\Fusebox_PCB.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=.\gerbers\JLC_GERBERS\Fusebox_PCB.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=.\gerbers\JLC_GERBERS\Fusebox_PCB.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument11]
 DocumentPath=.\gerbers\JLC_GERBERS\Fusebox_PCB.GM42
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument9]
 DocumentPath=.\gerbers\JLC_GERBERS\Fusebox_PCB.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument10]
 DocumentPath=.\gerbers\JLC_GERBERS\Fusebox_PCB.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument11]
 DocumentPath=.\gerbers\JLC_GERBERS\Fusebox_PCB.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument12]
 DocumentPath=.\gerbers\JLC_GERBERS\Fusebox_PCB.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument13]
 DocumentPath=.\gerbers\JLC_GERBERS\Fusebox_PCB.REP
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument14]
 DocumentPath=.\gerbers\JLC_GERBERS\Fusebox_PCB.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument15]
 DocumentPath=.\gerbers\JLC_GERBERS\Fusebox_PCB.TXT
 DItemRevisionGUID=
 
