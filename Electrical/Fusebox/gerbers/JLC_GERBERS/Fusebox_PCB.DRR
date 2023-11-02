@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Fusebox_PCB.PcbDoc   24.02.2022  22:39:06
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Fusebox_PCB.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             198       PTH        34.81inch (884.05mm)
+T2      39mil (1mm)                                               Round             6         PTH        3.38inch (85.90mm)
+T3      43mil (1.1mm)                                             Round             10        PTH        0.90inch (22.86mm)
+T4      51mil (1.3mm)                                             Round             52        PTH        6.26inch (159.09mm)
+T5      65mil (1.65mm)                                            Round             60        PTH        14.30inch (363.31mm)
+T6      91mil (2.3mm)                                             Round             2         PTH        1.68inch (42.60mm)
+T7      161mil (4.1mm)                                            Round             2         PTH        1.99inch (50.55mm)
+T8      78mil (1.98mm)                                            Round             2         NPTH       1.92inch (48.88mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              332
+
+Total Processing Time (hh:mm:ss) : 00:00:00
