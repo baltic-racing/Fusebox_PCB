@@ -100,7 +100,7 @@ GenerateClassCluster=0
 DocumentUniqueId=CDSOYDZY
 
 [Document4]
-DocumentPath=Shutdown_Converter.SchDoc
+DocumentPath=SDCI_Converter.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
