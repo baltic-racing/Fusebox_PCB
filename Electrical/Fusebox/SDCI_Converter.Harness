@@ -1,0 +1,2 @@
+SDCI_24V_Harness=SDB_Left,SDB_Right,TSAC,INV0,INV1,TSMS,HV_Distri
+SDCI_5V_Harness=SDB_left,SDB_Right,TSAC,INV0,INV1,TSMS,HV_Distri
