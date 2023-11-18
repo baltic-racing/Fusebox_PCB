@@ -1,0 +1,14 @@
+Add Component: Footprint Not Found Keystone_1020_0
+Add Component: Footprint Not Found Keystone_1020_0
+Add Pin To Net: Unknown Pin: Pin BT1-1
+Add Pin To Net: Unknown Pin: Pin BT1-2
+Add Pin To Net: Unknown Pin: Pin BT2-1
+Add Pin To Net: Unknown Pin: Pin BT2-2
+Change Net Name : Old Net Name=NetJ1_6 New Net Name=R2D_neg
+Change Net Name : Old Net Name=NetJ1_41 New Net Name=R2D_Trigger
+Change Net Name : Old Net Name=NetJ1_42 New Net Name=FAN_PU_CTRL
+Change Net Name : Old Net Name=NetJ1_43 New Net Name=WP_CTRL
+Change Net Name : Old Net Name=NetJ1_44 New Net Name=Servo_PWM
+Change Net Name : Old Net Name=NetOP1_1 New Net Name=FAN_TSAC_SW
+Add Class Member: Failed to add class member : Component BT1 Batt_Keystone_1020_eec
+Add Class Member: Failed to add class member : Component BT2 Batt_Keystone_1020_eec
