@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: C:\Users\nico\Baltic Racing\TY24_Local\Fusebox_PCB\Electrical\Fusebox\Fusebox_PCB.PcbDoc
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=3.54
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=5.91
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.97
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
