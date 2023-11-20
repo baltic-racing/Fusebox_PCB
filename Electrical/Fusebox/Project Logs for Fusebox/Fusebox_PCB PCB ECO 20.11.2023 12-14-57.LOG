@@ -1,0 +1,55 @@
+Removed Pin From Net: NetName=5V Pin=C8-1
+Removed Pin From Net: NetName=5V Pin=L1-2
+Removed Pin From Net: NetName=24_HV_Distri Pin=R3-2
+Removed Pin From Net: NetName=24_TSAC Pin=R4-2
+Removed Pin From Net: NetName=24_TSAL Pin=R5-2
+Removed Pin From Net: NetName=24_SDC Pin=R6-2
+Removed Pin From Net: NetName=5V Pin=R20-2
+Removed Pin From Net: NetName=5V Pin=U3-64
+Change Component Footprint: Designator=L1 Old Footprint=STACKPOLE CSR0603 New Footprint=WE-CBA_0603_L1.6W0.8H0.8_HF/HS/WB
+Change Component Comment : Designator=L1 Old Comment=SMD Inductor New Comment=120 @ 100Mhz
+Change component parameters: Designator = "L1" ("L1"); Footprint = "STACKPOLE CSR0603"; UniqueID = "\LQSIOLZZ\AIMMTRAF" ("\LQSIOLZZ\AIMMTRAF")
+Change component parameters (AddParameter): Name = "Automotive"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Size Code"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Ferrites for PCB Assembly"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/782631131?ad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/782631131?ad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DC Resistance Max"; Value = "0.12Ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance @100MHz"; Value = "120Ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance Max"; Value = "200Ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "782631131"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Match Code"; Value = "WE-CBA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Max"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Min"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Current"; Value = "0.5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Wide Band"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.8mm"; VariantName = "[No Variations]"
+Added Component: Designator=C23(CAP 0603/1608)
+Add component (AddParameter): Name = "Value"; Value = "1u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C23-1
+Added Pin To Net: NetName=24_SDC Pin=R3-2
+Added Pin To Net: NetName=24_HV_Distri Pin=R4-2
+Added Pin To Net: NetName=24_TSAC Pin=R5-2
+Added Pin To Net: NetName=24_TSAL Pin=R6-2
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=C9-1
+Added Pin To Net: NetName=NetC8_1 Pin=L1-2
+Added Pin To Net: NetName=NetC8_1 Pin=R20-2
+Added Pin To Net: NetName=NetC8_1 Pin=U3-64
+Added Net: Name=NetC8_1
+Added Pin To Net: NetName=NetC23_2 Pin=C23-2
+Added Pin To Net: NetName=NetC23_2 Pin=R20-1
+Added Pin To Net: NetName=NetC23_2 Pin=U3-62
+Added Net: Name=NetC23_2
+Change Differential Pair Positive Net Name : Old Net Name=CAN_N New Net Name=CAN_P
+Change Differential Pair Negative Net Name : Old Net Name=CAN_P New Net Name=CAN_N
+Added Member To Class: ClassName=Controller Member=Component C23 SMD Capacitor
+Added Member To Class: ClassName=CAN Member=Wire CAN_N
