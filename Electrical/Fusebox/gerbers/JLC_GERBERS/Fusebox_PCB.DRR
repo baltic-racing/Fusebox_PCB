@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Fusebox_PCB.PcbDoc   20.11.2023  17:03:52
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Fusebox_PCB.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             78        PTH        14.94inch (379.46mm)
+T2      20mil (0.5mm)                                             Round             120       PTH        30.77inch (781.62mm)
+T3      39mil (1mm)                                               Round             6         PTH        4.19inch (106.52mm)
+T4      43mil (1.1mm)                                             Round             10        PTH        0.90inch (22.86mm)
+T5      51mil (1.3mm)                                             Round             56        PTH        7.55inch (191.83mm)
+T6      65mil (1.65mm)                                            Round             64        PTH        16.80inch (426.75mm)
+T7      91mil (2.3mm)                                             Round             2         PTH        1.68inch (42.60mm)
+T8      161mil (4.1mm)                                            Round             2         PTH        1.99inch (50.55mm)
+T9      78mil (1.98mm)                                            Round             2         NPTH       1.92inch (48.85mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              340
+
+Total Processing Time (hh:mm:ss) : 00:00:00

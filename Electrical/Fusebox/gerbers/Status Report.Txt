@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Fusebox_PCB.PcbDoc]
+   Generated File[Fusebox_PCB.TXT]
+   Generated File[Fusebox_PCB.LDP]
+   Generated File[Fusebox_PCB.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 17:03:52 On 20.11.2023
