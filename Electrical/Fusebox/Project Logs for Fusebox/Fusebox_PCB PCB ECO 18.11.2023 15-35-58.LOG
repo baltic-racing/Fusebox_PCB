@@ -1,7 +1,0 @@
-Removed Pin From Net: NetName=R2D_neg Pin=J2-H
-Removed Member From Class: ClassName=R2D Member=J2
-Added Room: Name=Connector
-Added Room: Name=Controller
-Added Room: Name=R2D
-Added Room: Name=SDC
-Added Room: Name=Supply
